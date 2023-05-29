@@ -22,9 +22,10 @@ Gérer la fin de partie : mettre en place un mécanisme qui permet de détecter 
 
 Cette étape de développement du jeu est cruciale pour garantir une expérience utilisateur fluide et agréable.
 
--------------------------------------------------------------------------------------------------------Conclusion--------------------------------------------------------------------------------------------------------
-Nous sommes heureux de vous annoncer que nous avons réussi à implémenter toutes les fonctionnalités prévues pour le projet Fil-Rouge. Le développement du jeu est désormais fonctionnel, offrant aux joueurs une expérience de jeu complète et divertissante.
+--
+Conclusion
 
+Le développement du jeu est désormais fonctionnel, offrant aux joueurs une expérience de jeu complète et divertissante.
 Grâce à la mise en place des rafles, les joueurs peuvent continuer à prendre des pièces du joueur opposé tant que cela est possible, ce qui ajoute une dimension stratégique intéressante. De plus, la vérification du coup le plus rentable garantit des choix pertinents pour les déplacements.
 
 Du côté métier/vue, nous avons intégré l'affichage des scores, permettant aux joueurs de suivre leur progression et celle de leurs adversaires tout au long du jeu. La gestion de la fin de partie assure une conclusion appropriée en détectant les conditions de fin, offrant ainsi une expérience de jeu satisfaisante.
